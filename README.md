@@ -2,6 +2,7 @@
 
 **The structural asset repository and primary image CDN wrapping the core web logic of the rupamdas.in architecture.**
 
+> [!NOTE]
 > * **Architect:** Rupam Das
 > * **Coordinates:** Dum Dum Motijheel College (WBSU)
 > * **Identity:** Microbiology Undergraduate & Systems Architect
